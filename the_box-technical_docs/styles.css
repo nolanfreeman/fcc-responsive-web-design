@@ -64,7 +64,7 @@ main {
     grid-row-end: 4;
 }
 #intro-image {
-    height: 50%;
+    height: auto;
     width: 25%;
     margin-top: 2em;
 }
